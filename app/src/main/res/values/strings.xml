@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EECS1022 lab2</string>
+    <string-array name="status">
+        <item>Single</item>
+        <item>Married</item>
+        <item>House</item>
+    </string-array>
+</resources>
